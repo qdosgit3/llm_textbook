@@ -1,7 +1,1 @@
 
-[submodule "hextra_new"]
-	path = themes/hextra
-	url = http://github.com/imfing/hextra.git
-[submodule "themes/hextra"]
-	path = themes/hextra
-	url = http://github.com/imfing/hextra.git
