@@ -2,13 +2,13 @@
 
 title: Introduction to modern LLMs textbook
 
-theme: 'hugo_theme'
+theme: 'hextra'
 
 # excluding domain name will serve local theme
 # import hextra as module
 module:
   imports:  
-    - path: hugo_theme
+    - path: hextra
 
 markup:
   # allow raw html

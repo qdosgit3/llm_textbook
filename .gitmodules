@@ -1,1 +1,4 @@
 
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = http://github.com/qdosgit3/hextra
