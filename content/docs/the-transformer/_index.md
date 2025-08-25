@@ -1,8 +1,6 @@
 ---
 title: 1. The Transformer
 type: docs
-prev: 
-next: docs/the-transformer/1.0-primer
 sidebar:
   open: true
 ---
