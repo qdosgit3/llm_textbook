@@ -1,15 +1,14 @@
 # Hugo configuration file
 title: Introduction to modern LLMs textbook
 
-theme: 'hextra'
+# theme: 'hextra'
 
 
 # import hextra as module
 module:
   imports:  
-    - path: hextra
-  
-    # - path: github.com/imfing/hextra
+    - path: github.com/imfing/hextra
+    # - path: hextra  
 
 markup:
   # allow raw html
