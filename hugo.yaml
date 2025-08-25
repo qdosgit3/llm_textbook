@@ -1,6 +1,9 @@
 # Hugo configuration file
 title: Introduction to modern LLMs textbook
 
+theme: 'hextra'
+
+
 # import hextra as module
 module:
   imports:
