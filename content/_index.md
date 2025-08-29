@@ -9,3 +9,7 @@ Welcome to the Introduction to LLMs online textbook.
 
 ## Menu
 
+{{< cards >}}
+  {{< card link="docs" title="Read textbook" icon="book-open" >}}
+  {{< card link="about" title="About textbook" icon="user" >}}
+{{< /cards >}}
