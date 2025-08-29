@@ -17,7 +17,7 @@ There are a few major stages within the lifetime of an LLM:
 2. Adaptation \- deploying more specific methods to fine-tune a model for specific use-cases  
 3. Utilisation \- invoking output from the trained model, for practical uses, by crafting prompts
 
-Generally, development of a competitive LLM is outside of the budget of most companies \- DeepSeek, a Chinese competitor to OpenAI, is said to have built the LLM DeepSeek-R1 for $6M USD. However, businesses across a large variety of industries increasingly benefit from the automation abilities of the utilisation stage that LLMs offer, such as for customer service, content creation, or information retrieval purposes.
+Generally, development of a competitive LLM is outside of the budget of most companies \- DeepSeek, a Chinese competitor to OpenAI, is said to have built the LLM DeepSeek-R1 for $6M USD, and this is considered a competitive cost. However, businesses across a large variety of industries increasingly benefit from the automation abilities of the utilisation stage that LLMs offer, such as for customer service, content creation, or information retrieval purposes. 
 
 Note that LLMs are prone to acting on predictions, even if reasoning is not substantive for them, and so LLMs are regarded as experimental.
 
@@ -47,5 +47,5 @@ However, ask Llama-4 something more general, e.g. "What are common problems amon
 * Creating a welcoming and inclusive environment for underrepresented groups  
 * Encouraging collaboration between CS departments and other disciplines
 
-This text attempts to give an overview of the theory behind how the major pieces of an LLM works, without getting too caught up in the current most popular implementation details (tensors, Python, etc.).
+This text attempts to give an overview of the theory behind how the major pieces of an LLM work, without getting too caught up in the current most popular implementation details (tensors, Python, etc.).
 
