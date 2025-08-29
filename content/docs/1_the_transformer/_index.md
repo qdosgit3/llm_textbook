@@ -8,7 +8,7 @@ sidebar:
 
 <img src="/img/transformer-vaswani.png" alt="The Transformer" width="50%"/>
 
-* Diagram 1.0: The Transformer, Vaswani et al. (2017)*
+*Diagram 1.0: The Transformer, Vaswani et al. (2017)*
 
 This chapter iterates through the layers of The Transformer from the bottom-up.
 
