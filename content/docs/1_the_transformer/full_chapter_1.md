@@ -49,7 +49,7 @@ This text attempts to give an overview of the theory behind how the major pieces
 On the topic of LLM architecture, a paper frequently cited is Vaswani et al. (2017). This paper pioneered the concept of a model known as a Transformer, which is currently the state-of-the-art building block of sequence-to-sequence modelling tasks. 
 
 ![][image1]  
-*Diagram 1: The Transformer, Vaswani et al. (2017)*
+* Diagram 1.0: The Transformer, Vaswani et al. (2017)*
 
 The Transformer is made up of an encoder (left side of diagram 1\) and a decoder (right side of diagram 1).
 
