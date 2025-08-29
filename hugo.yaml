@@ -4,6 +4,10 @@ title: Introduction to modern LLMs textbook
 
 theme: 'hextra'
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 # excluding domain name will serve local theme
 # import hextra as module
 module:
