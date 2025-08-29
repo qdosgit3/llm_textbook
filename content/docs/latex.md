@@ -1,8 +1,7 @@
 ---
 title: "LaTeX"
 weight: 4
-
-draft:true
+draft: true
 ---
 
 LaTeX math expressions are rendered using \(\KaTeX\) by default. Simply start including them in your Markdown content without any manual configurations.
