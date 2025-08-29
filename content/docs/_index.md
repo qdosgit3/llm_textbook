@@ -1,10 +1,12 @@
 ---
-title: Documentation
-next: overview
+title: Introduction to Modern LLMs
 math: true
 ---
 
-Please select an option from the side menu.
+This textbook aims to introduce some prominent concepts regards LLMs, including both the internal mechanisms, and potential use cases.
 
-This \(\sigma(z) = \frac{1}{1 + e^{-z}}\) is an inline expression.
+Please select a chapter from the side menu.
+
+*Written by Thomas Prior*
+
 
