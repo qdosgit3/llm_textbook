@@ -49,7 +49,7 @@ This text attempts to give an overview of the theory behind how the major pieces
 On the topic of LLM architecture, a paper frequently cited is Vaswani et al. (2017). This paper pioneered the concept of a model known as a Transformer, which is currently the state-of-the-art building block of sequence-to-sequence modelling tasks. 
 
 ![][image1]  
-*Diagram 1: The Transformer, Vaswarni et al. (2017)*
+*Diagram 1: The Transformer, Vaswani et al. (2017)*
 
 The Transformer is made up of an encoder (left side of diagram 1\) and a decoder (right side of diagram 1).
 
@@ -78,7 +78,7 @@ Representing data as vectors is a method that can be applied to a variety of con
 
 **1.2 Positional Encoding \- incorporating position related data to word embeddings**
 
-As a Transformer based LLM processes the aforementioned tokens in parallel, a method is needed to embed the relative positional data of the tokens into vector representations. The original Vaswarni et al. (2017) paper proposes using the sine and cosine functions as a means of representing positions, alternately for odd and even positions.
+As a Transformer based LLM processes the aforementioned tokens in parallel, a method is needed to embed the relative positional data of the tokens into vector representations. The original Vaswani et al. (2017) paper proposes using the sine and cosine functions as a means of representing positions, alternately for odd and even positions.
 
 Positional encodings are then generated via the following functions:  
 P(k, 2i)=sin(kn2i/d)  
@@ -88,7 +88,7 @@ k: the position of the object within the input sequence
 
 d: set to the same value as the dimension of the word embeddings to be used
 
-n: scalar, set to 10,000 in Vaswarni et al. (2017)
+n: scalar, set to 10,000 in Vaswani et al. (2017)
 
 i: the output position in regards to the final positional encoding vector that is to be output for a specific token, whereby each set of adjacent odd and even position values are set to the same i, such that 0i\<d/2
 
