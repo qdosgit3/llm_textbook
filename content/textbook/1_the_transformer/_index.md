@@ -6,7 +6,7 @@ sidebar:
 ---
 
 
-<img src="/img/transformer-vaswani.png" alt="The Transformer" width="50%"/>
+![transformer-repeated](/img/transformer-vaswani.png)
 
 *Diagram 1.0: The Transformer, Vaswani et al. (2017)*
 
