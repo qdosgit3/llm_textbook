@@ -40,15 +40,15 @@ params:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Textbook
+      pageRef: /textbook
       weight: 1
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/qdosgit3"
-      weight: 3
+    # - name: Contact ↗
+    #   url: "https://github.com/qdosgit3"
+    #   weight: 3
     - name: Search
       weight: 4
       params:
