@@ -18,9 +18,9 @@ To edit via Github Codespaces:
 
 The website has been mirrored in the following locations thus far:
 
-- https://llm-textbook.pages.dev/docs/
+- https://llm-textbook.pages.dev
 - https://intro-to-llm-textbook.web.app
-- https://qdosgit3.github.io/llm_textbook/
+- https://qdosgit3.github.io/llm_textbook
 
 
 By Thomas Prior
